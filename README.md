@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning :
               -"Python","C++","C","HTML","CSS","JavaScript"
 - 💞️ I’m looking to collaborate on :
--            -"Open-source projects that improve accessibility",
--            -"Machine learning projects focused on environmental sustainability"
+-            -"Open-source projects that improve accessibility","Machine learning projects focused on environmental sustainability"
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
