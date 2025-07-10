@@ -4,7 +4,7 @@
               -Ethical AI, particularly fairness and bias detection, and
               - AI applications in medical diagnostics.
 - 🌱 I’m currently learning :
-              -"Python","C++","C","HTML","CSS","JavaScript"
+              -"Python","C++","C","HTML","CSS","Java".
 - 💞️ I’m looking to collaborate on :
 -            -"Open-source projects that improve accessibility","Machine learning projects focused on environmental sustainability"
 - 📫 How to reach me 
