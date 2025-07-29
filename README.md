@@ -46,10 +46,10 @@
 ## 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/pranalisawant02" target="_blank">
+  <a href="https://www.linkedin.com/in/pranali-sawant-2832a6334/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pranalisawant02@gmail.com" target="_blank">
+  <a href="mailto:pranalisawant1403@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
