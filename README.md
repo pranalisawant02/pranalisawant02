@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Pranali Sawant</h1>
 
 <p align="center">
-  <b>B.Tech Student | HTML & C/C++ Programmer | Python & Java Enthusiast | MySQL Explorer</b><br/>
+  <b>B.Tech Student | HTML-CSS -JavaScript |  C/C++ Programmer | Python & Java Enthusiast | MySQL Explorer | DS - ML | </b><br/>
   <i>Learning and building something new every day 🚀</i>
 </p>
 
