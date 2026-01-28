@@ -32,7 +32,7 @@
 </p>
 
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 🔭 Contribute to open source
 - 🌱 Build cool AI & Web projects
