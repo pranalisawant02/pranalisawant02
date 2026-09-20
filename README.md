@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=7A5CFA&center=true&vCenter=true&width=600&lines=B.Tech+AI%2FML+%7C+Final+Year+Student;Training+models%2C+shipping+products;Currently%3A+DSA+%2B+System+Design;Open+to+ML+%2F+SWE+Internships" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=7A5CFA&center=true&vCenter=true&width=600&lines=B.Tech+AI%2FML+%7C+Final+Year+Student;Training+models%2C+shipping+products;Exploring+ML%2C+Deep+Learning+%26+NLP;Open+to+AI%2FML+Internships" />
 
 <br><br>
 
@@ -20,9 +20,9 @@
 >>> class Pranali:
 ...     def __init__(self):
 ...         self.role = "B.Tech AI/ML — Final Year"
-...         self.builds = ["ML models", "web interfaces", "the occasional bug (unintentional)"]
-...         self.currently_learning = ["DSA", "System Design"]
-...         self.looking_for = "internship in AI/ML or Software Dev"
+...         self.builds = ["ML models", "data pipelines", "the occasional bug (unintentional)"]
+...         self.currently_learning = ["Deep Learning", "NLP", "Model Deployment"]
+...         self.looking_for = "internship in AI / Machine Learning"
 ...
 ...     def status(self):
 ...         return "still training — loss going down, patience going up 📉"
@@ -33,7 +33,20 @@
 ### 🧬 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql,git,github,vscode,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,java,cpp,c,mysql,git,github,vscode&theme=dark" />
+</div>
+
+<br>
+
+### 🔬 Areas I'm exploring in AI/ML
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7A5CFA?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00C2A8?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7A5CFA?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00C2A8?style=for-the-badge&logo=pandas&logoColor=white)
+
 </div>
 
 <br>
@@ -68,12 +81,14 @@
 
 ### 📌 Checkpoints — things I've shipped
 
+> Foundations first — the ML/DL projects are training as we speak. This table is the first thing recruiters read, so swap it in as soon as a real model or notebook is pinned.
+
 | repo | what it is | stack |
 |---|---|---|
+| [`Python`](https://github.com/pranalisawant02/Python) | Python practice — scripts, logic, groundwork for ML work | Python |
 | [`OOP`](https://github.com/pranalisawant02/OOP) | Object-oriented programming exercises & mini-projects | C++ |
-| [`Python`](https://github.com/pranalisawant02/Python) | Python practice — scripts, logic, problem-solving | Python |
 | [`Java`](https://github.com/pranalisawant02/Java) | Core Java concepts + OOP in practice | Java |
-| [`MySQL`](https://github.com/pranalisawant02/MySQL) | Database design & query practice | SQL |
+| [`MySQL`](https://github.com/pranalisawant02/MySQL) | Database design & query practice — the data side of ML | SQL |
 
 <br>
 
