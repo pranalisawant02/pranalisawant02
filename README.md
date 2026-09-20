@@ -1,95 +1,116 @@
-<h1 align="center">Hi, I'm Pranali Sawant 👋</h1>
-<h3 align="center">AI/ML Engineer in the making — building intelligent systems that solve real problems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7A5CFA&center=true&vCenter=true&width=550&lines=BTech+AIML+%7C+Final+Year+Student;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</p>
+```python
+>>> import pranali as me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranali-sawant-2832a6334/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pranali-portfolio-sigma.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:pranalisawant1403@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+>>> me.status
+'training in progress...'
+```
 
----
+</div>
 
-### 🧠 About Me
+<br>
 
-- 🎓 B.Tech in **AI & Machine Learning**, final year
-- 💡 Passionate about **Machine Learning, Deep Learning & NLP** — building systems that actually solve problems, not just toy demos
-- 🌱 Currently sharpening **DSA and system design** fundamentals
-- 💼 Actively looking for **internship opportunities** in AI/ML & software development
-- 🔭 Also building cool projects on the web side — I like understanding the full stack a model has to live in
-- ⚡ Fun fact: I'd rather debug a stubborn model than binge a show
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+### `model.summary()`
 
-### 🛠️ Tech Stack
+**Pranali Sawant** — B.Tech AI/ML, final year.
+I build things that turn messy data into decisions — and I'm equally
+comfortable shipping the model *and* the interface it lives behind.
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-</p>
+Right now: sharpening DSA + system design, and looking for an
+internship where I can ship real ML, not just notebooks.
 
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
+📍 [Portfolio](https://pranali-portfolio-sigma.vercel.app) · [LinkedIn](https://www.linkedin.com/in/pranali-sawant-2832a6334/) · [Email](mailto:pranalisawant1403@gmail.com)
 
-**Web & Data**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+</td>
+<td width="40%" valign="top">
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
+```
+Epoch 4 (Final Year)
+─────────────────────
+loss:      "what should I build"
+val_loss:  "will it actually ship"
+metric:    curiosity ↑ (still rising)
+optimizer: caffeine + stubbornness
+status:    not yet converged (good)
+```
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranalisawant02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalisawant02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### `architecture` — what I build with
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pranalisawant02&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr><td valign="top" width="18%"><b>ml / data</b></td><td>
 
----
+`Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow`
 
-### 🎯 2026 Goals
+</td></tr>
+<tr><td valign="top"><b>core</b></td><td>
 
-- 🚀 Ship at least one end-to-end ML project (data → model → deployed demo)
-- 🤝 Land my first open-source contribution
-- 📚 Get comfortable with DSA + system design fundamentals
-- 💼 Land an internship in AI/ML or software development
-- 🌐 Keep my portfolio and profile reflecting what I'm actually building
+`C` `C++` `Java`
 
----
+</td></tr>
+<tr><td valign="top"><b>web</b></td><td>
 
-### 📫 Let's Connect
+`HTML` `CSS` `JavaScript` `MySQL`
 
-Open to internships, collaborations, and interesting AI/ML projects — feel free to reach out.
+</td></tr>
+<tr><td valign="top"><b>tools</b></td><td>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pranali-sawant-2832a6334/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pranali-portfolio-sigma.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:pranalisawant1403@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+`Git` `GitHub` `VS Code`
 
-<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
+</td></tr>
+</table>
+
+<br>
+
+### `checkpoints/` — things I've actually shipped
+
+> I'd rather link three finished things than list forty half-tried ones.
+
+| repo | what it is | stack |
+|---|---|---|
+| [`OOP`](https://github.com/pranalisawant02/OOP) | Object-oriented programming exercises & mini-projects | C++ |
+| [`Python`](https://github.com/pranalisawant02/Python) | Python practice — scripts, logic, problem-solving | Python |
+| [`Java`](https://github.com/pranalisawant02/Java) | Core Java concepts + OOP in practice | Java |
+| [`MySQL`](https://github.com/pranalisawant02/MySQL) | Database design & query practice | SQL |
+
+*(Swap this table for your real pinned projects as they come — this is the section people actually read.)*
+
+<br>
+
+### `training_log.md` — 2026 goals, with real targets
+
+- [ ] Ship one **end-to-end ML project** — data → model → deployed demo, not just a notebook
+- [ ] Land my **first open-source PR**
+- [ ] Get fluent in **DSA + system design**
+- [ ] Land an **internship** in AI/ML or software dev
+- [ ] Replace this checklist with a changelog of things I *did*, not things I *planned*
+
+<br>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=pranalisawant02&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=7A5CFA&icon_color=7A5CFA&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalisawant02&layout=compact&hide_border=true&bg_color=0d1117&title_color=7A5CFA&text_color=c9d1d9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```python
+>>> me.status = 'still training — check back next epoch'
+>>> print("thanks for stopping by ⭐")
+```
+
+</div>
