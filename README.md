@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranalisawant02&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=7A5CFA&icon_color=7A5CFA&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalisawant02&layout=compact&hide_border=true&bg_color=0d1117&title_color=7A5CFA&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pranalisawant02&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=7A5CFA&icon_color=7A5CFA&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranalisawant02&layout=compact&hide_border=true&bg_color=0d1117&title_color=7A5CFA&text_color=c9d1d9" />
 
 <br>
 
