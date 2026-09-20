@@ -59,8 +59,6 @@
 
 </div>
 
-> This animates automatically from your *real* commit history — no editing it by hand.
-> Setup is one small file, instructions below. Until you add it, this line will just show a broken image — that's expected.
 
 <br>
 
