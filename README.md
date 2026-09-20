@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Pranali Sawant</h1>
+[<h1 align="center">Hey there! 👋 I'm Pranali Sawant</h1>
 
 <p align="center">
   <b>B.Tech Student | HTML-CSS -JavaScript |  C/C++ Programmer | Python & Java Enthusiast | MySQL Explorer | DS - ML | </b><br/>
@@ -58,3 +58,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Happy+Coding!+%F0%9F%92%BB+❤️">
 </p>
+](https://github.com/pranalisawant02)
